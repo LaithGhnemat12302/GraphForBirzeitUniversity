@@ -1,0 +1,274 @@
+228, 44
+Faculty Of Science, 320, 810
+Sewage Treatment Plant, 900.38, 880.01
+Faculty Of Bussiness and Economics, 654.22, 812.39
+Graduate Studies Building, 515.51, 820.45
+University Clinic, 444.34, 810.88
+Electric Generator, 216.22, 826.83
+Museum, 586.25, 750.94
+Main Library, 529.31, 744.96
+Kamal Nasir Hall, 434.47, 730.24
+Adminstration Building, 362.72, 703.34
+Student's Council, 304.26, 743.45
+Faculty Of Engineering, 229.23, 646.32
+General Stores And Workshop, 144.85, 660.43
+Presidency Building, 615.89, 661.19
+Law Building, 496.92, 680.25
+Sheikh Rashid Al Maktum Building, 401.23, 595.8
+Book Store, 358.10, 611.31
+Sports Field One, 280.42, 626.98
+Engineering Workshops, 282.38, 553.36
+Water Reservoir, 743.48, 559.56
+Electric Sub Station, 949.05, 960.31
+Al Shurfeh Garden, 467.23, 523.83
+Faculty Of Education(Bamiah), 679.47, 482.37
+Azeez Shaheen Building, 543.05, 455.78
+Physical Education Building, 406.90, 386.45
+Najjad Zeeni, 763.20, 420.57
+Said Khoury Building, 663.76, 402.15
+Women Studies Building, 604.23, 412.91
+Faculty Of Information Technology, 805.46, 352.71
+Media building, 674.78, 339.39
+Naseeb Shaheen Stage, 724.68, 257.79
+Faculty Of Nursing And Pharmacy, 567.51, 244.79
+Pharmaceutical Training Factory, 504.23, 190.95
+Heritage Museum, 669.01, 49.34
+Sports Field Two, 314.30, 564.87
+Sports Field Three, 351, 480.57
+Sports Field Four, 345.29, 366.67
+Sports Field Five, 459.28, 406.73
+West Gate, 197.45, 777.34
+Al Juraisey Building, 588.12, 827.62
+Services Building, 486.92, 635.25
+Al-Sadik Law Building, 582.25, 574.56
+Art Music And Design Building, 461.67, 260.76
+North Gate, 840.86, 300.34
+************************************************************
+Faculty Of Science, University Clinic, 77.85
+Faculty Of Science, Electric Generator, 112.99
+Faculty Of Science, Kamal Nasir Hall, 99.02
+Faculty Of Science, Student's Council, 48.22
+Faculty Of Science, Faculty Of Engineering, 91.50
+Faculty Of Science, West Gate, 89.24
+Sewage Treatment Plant, Faculty Of Bussiness and Economics, 175.20
+Sewage Treatment Plant, Electric Sub Station, 164.89
+Faculty Of Bussiness and Economics, Sewage Treatment Plant, 175.20
+Faculty Of Bussiness and Economics, Museum, 86.91
+Faculty Of Bussiness and Economics, Al Juraisey Building, 57.01
+Graduate Studies Building, University Clinic, 97.97
+Graduate Studies Building, Museum, 63.16
+Graduate Studies Building, Main Library, 55.17
+Graduate Studies Building, Kamal Nasir Hall, 83.70
+Graduate Studies Building, Al Juraisey Building, 65.75
+University Clinic, Faculty Of Science, 77.85
+University Clinic, Graduate Studies Building, 97.97
+University Clinic, Main Library, 76.96
+University Clinic, Kamal Nasir Hall, 51.42
+Electric Generator, Faculty Of Science, 112.99
+Electric Generator, West Gate, 46.98
+Museum, Faculty Of Bussiness and Economics, 86.91
+Museum, Graduate Studies Building, 63.16
+Museum, Main Library, 35.56
+Museum, Al Juraisey Building, 54.57
+Main Library, Graduate Studies Building, 55.17
+Main Library, University Clinic, 76.96
+Main Library, Museum, 35.56
+Main Library, Kamal Nasir Hall, 71.60
+Main Library, Law Building, 54.03
+Main Library, Al Juraisey Building, 77.84
+Kamal Nasir Hall, Faculty Of Science, 99.02
+Kamal Nasir Hall, Graduate Studies Building, 83.70
+Kamal Nasir Hall, University Clinic, 51.42
+Kamal Nasir Hall, Main Library, 71.60
+Kamal Nasir Hall, Adminstration Building, 109.39
+Kamal Nasir Hall, Student's Council, 96.00
+Kamal Nasir Hall, Law Building, 68.90
+Kamal Nasir Hall, Sheikh Rashid Al Maktum Building, 102.84
+Kamal Nasir Hall, Al Juraisey Building, 133.68
+Kamal Nasir Hall, Services Building, 93.83
+Adminstration Building, Kamal Nasir Hall, 109.39
+Adminstration Building, Student's Council, 56.90
+Adminstration Building, Faculty Of Engineering, 74.66
+Adminstration Building, Law Building, 96.64
+Adminstration Building, Sheikh Rashid Al Maktum Building, 75.80
+Adminstration Building, Book Store, 60.13
+Adminstration Building, Sports Field One, 88.39
+Adminstration Building, Services Building, 102.34
+Student's Council, Faculty Of Science, 48.22
+Student's Council, Kamal Nasir Hall, 96.00
+Student's Council, Adminstration Building, 56.90
+Student's Council, Faculty Of Engineering, 34.48
+Student's Council, Book Store, 103.32
+Student's Council, Sports Field One, 100.12
+Student's Council, West Gate, 67.68
+Faculty Of Engineering, Faculty Of Science, 91.50
+Faculty Of Engineering, Adminstration Building, 74.66
+Faculty Of Engineering, Student's Council, 34.48
+Faculty Of Engineering, General Stores And Workshop, 75.20
+Faculty Of Engineering, Law Building, 167.90
+Faculty Of Engineering, Sheikh Rashid Al Maktum Building, 140.02
+Faculty Of Engineering, Book Store, 100.09
+Faculty Of Engineering, Sports Field One, 98.54
+Faculty Of Engineering, Engineering Workshops, 125.57
+Faculty Of Engineering, Sports Field Two, 133.42
+Faculty Of Engineering, West Gate, 73.41
+General Stores And Workshop, Faculty Of Engineering, 75.20
+General Stores And Workshop, Sports Field Four, 248.74
+General Stores And Workshop, West Gate, 117.04
+Presidency Building, Law Building, 72.67
+Presidency Building, Services Building, 81.22
+Presidency Building, Al-Sadik Law Building, 121.02
+Law Building, Main Library, 54.03
+Law Building, Kamal Nasir Hall, 68.90
+Law Building, Adminstration Building, 96.64
+Law Building, Faculty Of Engineering, 167.90
+Law Building, Presidency Building, 72.67
+Law Building, Sheikh Rashid Al Maktum Building, 81.77
+Law Building, Services Building, 35.04
+Sheikh Rashid Al Maktum Building, Kamal Nasir Hall, 102.84
+Sheikh Rashid Al Maktum Building, Adminstration Building, 75.80
+Sheikh Rashid Al Maktum Building, Faculty Of Engineering, 140.02
+Sheikh Rashid Al Maktum Building, Law Building, 81.77
+Sheikh Rashid Al Maktum Building, Book Store, 41.35
+Sheikh Rashid Al Maktum Building, Al Shurfeh Garden, 115.75
+Sheikh Rashid Al Maktum Building, Sports Field Two, 107.10
+Sheikh Rashid Al Maktum Building, Services Building, 60.35
+Sheikh Rashid Al Maktum Building, Al-Sadik Law Building, 155.20
+Book Store, Adminstration Building, 60.13
+Book Store, Student's Council, 103.32
+Book Store, Faculty Of Engineering, 100.09
+Book Store, Sheikh Rashid Al Maktum Building, 41.35
+Book Store, Sports Field One, 71.02
+Book Store, Engineering Workshops, 80.72
+Book Store, Sports Field Two, 72.59
+Sports Field One, Adminstration Building, 88.39
+Sports Field One, Student's Council, 100.12
+Sports Field One, Faculty Of Engineering, 98.54
+Sports Field One, Book Store, 71.02
+Sports Field One, Engineering Workshops, 56.69
+Sports Field One, Sports Field Two, 48.93
+Engineering Workshops, Faculty Of Engineering, 125.57
+Engineering Workshops, Book Store, 80.72
+Engineering Workshops, Sports Field One, 56.69
+Engineering Workshops, Sports Field Two, 58.09
+Engineering Workshops, Sports Field Three, 128.81
+Water Reservoir, Faculty Of Education(Bamiah), 101.39
+Electric Sub Station, Sewage Treatment Plant, 164.89
+Al Shurfeh Garden, Sheikh Rashid Al Maktum Building, 115.75
+Al Shurfeh Garden, Faculty Of Education(Bamiah), 189.45
+Al Shurfeh Garden, Azeez Shaheen Building, 82.03
+Al Shurfeh Garden, Sports Field Two, 157.73
+Al Shurfeh Garden, Sports Field Three, 203.99
+Al Shurfeh Garden, Sports Field Five, 118.05
+Al Shurfeh Garden, Services Building, 110.47
+Al Shurfeh Garden, Al-Sadik Law Building, 123.98
+Faculty Of Education(Bamiah), Water Reservoir, 101.39
+Faculty Of Education(Bamiah), Al Shurfeh Garden, 189.45
+Faculty Of Education(Bamiah), Azeez Shaheen Building, 99.27
+Faculty Of Education(Bamiah), Najjad Zeeni, 87.15
+Faculty Of Education(Bamiah), Said Khoury Building, 109.80
+Faculty Of Education(Bamiah), Al-Sadik Law Building, 69.63
+Faculty Of Education(Bamiah), Women Studies Building, 104.26
+Azeez Shaheen Building, Al Shurfeh Garden, 82.03
+Azeez Shaheen Building, Faculty Of Education(Bamiah), 99.27
+Azeez Shaheen Building, Women Studies Building, 51.49
+Azeez Shaheen Building, Sports Field Three, 157.32
+Azeez Shaheen Building, Sports Field Five, 104.13
+Azeez Shaheen Building, Al-Sadik Law Building, 128.01
+Azeez Shaheen Building, Said Khoury Building, 136.61
+Physical Education Building, Sports Field Three, 82.64
+Physical Education Building, Sports Field Four, 44.91
+Physical Education Building, Sports Field Five, 35.31
+Najjad Zeeni, Faculty Of Education(Bamiah), 87.15
+Najjad Zeeni, Said Khoury Building, 72.19
+Najjad Zeeni, Faculty Of Information Technology, 96.50
+Najjad Zeeni, Media building, 97.76
+Najjad Zeeni, Naseeb Shaheen Stage, 141.14
+Said Khoury Building, Faculty Of Education(Bamiah), 109.80
+Said Khoury Building, Najjad Zeeni, 72.19
+Said Khoury Building, Women Studies Building, 48.43
+Said Khoury Building, Faculty Of Information Technology, 118.80
+Said Khoury Building, Media building, 53.31
+Said Khoury Building, Azeez Shaheen Building, 136.61
+Women Studies Building, Azeez Shaheen Building, 51.49
+Women Studies Building, Said Khoury Building, 48.43
+Women Studies Building, Media building, 70.36
+Women Studies Building, Sports Field Five, 123.24
+Women Studies Building, Faculty Of Education(Bamiah), 104.26
+Faculty Of Information Technology, Najjad Zeeni, 96.50
+Faculty Of Information Technology, Said Khoury Building, 118.80
+Faculty Of Information Technology, Media building, 145.23
+Faculty Of Information Technology, Naseeb Shaheen Stage, 20
+Faculty Of Information Technology, North Gate, 94.64
+Media building, Najjad Zeeni, 97.76
+Media building, Said Khoury Building, 53.31
+Media building, Women Studies Building, 70.36
+Media building, Faculty Of Information Technology, 20
+Media building, Naseeb Shaheen Stage, 113.77
+Media building, Faculty Of Nursing And Pharmacy, 107.30
+Naseeb Shaheen Stage, Najjad Zeeni, 141.14
+Naseeb Shaheen Stage, Faculty Of Information Technology, 107.47
+Naseeb Shaheen Stage, Media building, 113.77
+Naseeb Shaheen Stage, Faculty Of Nursing And Pharmacy, 130.09
+Naseeb Shaheen Stage, Heritage Museum, 117.32
+Naseeb Shaheen Stage, North Gate, 109.46
+Faculty Of Nursing And Pharmacy, Media building, 107.30
+Faculty Of Nursing And Pharmacy, Naseeb Shaheen Stage, 130.09
+Faculty Of Nursing And Pharmacy, Pharmaceutical Training Factory, 71.73
+Faculty Of Nursing And Pharmacy, Heritage Museum, 213.24
+Faculty Of Nursing And Pharmacy, Art Music And Design Building, 126.63
+Pharmaceutical Training Factory, Faculty Of Nursing And Pharmacy, 71.73
+Pharmaceutical Training Factory, Art Music And Design Building, 118.42 
+Heritage Museum, Naseeb Shaheen Stage, 117.32
+Heritage Museum, Faculty Of Nursing And Pharmacy, 213.24
+Sports Field Two, Faculty Of Engineering, 133.42
+Sports Field Two, Sheikh Rashid Al Maktum Building, 107.10
+Sports Field Two, Book Store, 72.59
+Sports Field Two, Sports Field One, 48.93
+Sports Field Two, Engineering Workshops, 58.09
+Sports Field Two, Al Shurfeh Garden, 157.73
+Sports Field Two, Sports Field Three, 71.03
+Sports Field Three, Engineering Workshops, 128.81
+Sports Field Three, Al Shurfeh Garden, 203.99
+Sports Field Three, Azeez Shaheen Building, 157.32
+Sports Field Three, Physical Education Building, 82.64
+Sports Field Three, Sports Field Two, 71.03
+Sports Field Three, Sports Field Four, 98.95
+Sports Field Three, Sports Field Five, 99.16
+Sports Field Four, General Stores And Workshop, 248.74
+Sports Field Four, Physical Education Building, 44.91
+Sports Field Four, Sports Field Three, 98.95
+Sports Field Four, Art Music And Design Building, 165.12
+Sports Field Five, Al Shurfeh Garden, 118.05
+Sports Field Five, Azeez Shaheen Building, 104.13
+Sports Field Five, Physical Education Building, 35.31
+Sports Field Five, Women Studies Building, 123.24
+Sports Field Five, Sports Field Three, 99.16
+West Gate, Faculty Of Science, 89.24
+West Gate, Electric Generator, 46.98
+West Gate, Student's Council, 67.68
+West Gate, Faculty Of Engineering, 73.41
+West Gate, General Stores And Workshop, 117.04
+Al Juraisey Building, Faculty Of Bussiness and Economics, 57.01
+Al Juraisey Building, Graduate Studies Building, 65.75
+Al Juraisey Building, Museum, 54.57
+Al Juraisey Building, Main Library, 77.84
+Al Juraisey Building, Kamal Nasir Hall, 133.68
+Services Building, Presidency Building, 81.22
+Services Building, Law Building, 35.04
+Services Building, Sheikh Rashid Al Maktum Building, 60.35
+Services Building, Adminstration Building, 102.34
+Services Building, Kamal Nasir Hall, 93.83
+Services Building, Al-Sadik Law Building, 125.89
+Services Building, Al Shurfeh Garden, 110.47
+Al-Sadik Law Building, Services Building, 125.89
+Al-Sadik Law Building, Presidency Building, 121.02
+Al-Sadik Law Building, Sheikh Rashid Al Maktum Building, 155.20
+Al-Sadik Law Building, Al Shurfeh Garden, 123.98
+Al-Sadik Law Building, Faculty Of Education(Bamiah), 69.63
+Al-Sadik Law Building, Azeez Shaheen Building, 128.01
+Art Music And Design Building, Sports Field Four, 165.12
+Art Music And Design Building, Faculty Of Nursing And Pharmacy, 126.63
+Art Music And Design Building, Pharmaceutical Training Factory, 118.42
+North Gate, Faculty Of Information Technology, 94.64
+North Gate, Naseeb Shaheen Stage, 109.46
